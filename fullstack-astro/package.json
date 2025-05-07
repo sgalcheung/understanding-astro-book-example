@@ -11,13 +11,13 @@
     "emulators": "firebase emulators:start"
   },
   "dependencies": {
-    "@astrojs/react": "^3.6.1",
-    "@astrojs/tailwind": "^5.1.0",
-    "@astrojs/vercel": "^7.7.2",
+    "@astrojs/react": "^4.2.7",
+    "@astrojs/tailwind": "^6.0.2",
+    "@astrojs/vercel": "^8.1.4",
     "@nanostores/react": "^0.7.1",
     "@types/react": "^18.2.7",
     "@types/react-dom": "^18.2.4",
-    "astro": "^4.13.1",
+    "astro": "^5.7.11",
     "firebase": "^9.22.1",
     "firebase-admin": "^11.8.0",
     "nanoid": "^4.0.2",
